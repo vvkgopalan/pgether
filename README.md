@@ -1,2 +1,3 @@
-# pgether
+# PGEther
 Postgres + Ethereum
+
